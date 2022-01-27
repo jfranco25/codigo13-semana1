@@ -43,4 +43,5 @@ git checkout -b nombre_del_branch
 ```
 git checkout nombre_del_branch
 ```
-- sirve para poder moverme entre ramas
+- Sirve para poder moverme entre ramas
+- 👁️ Si el checkout no tiene el -b solo es para moverse
