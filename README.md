@@ -24,6 +24,11 @@ git commit -m "comentario"
 ```
 - crea un punto en la linea de tiempo: time: de nuestros cambios y a estos se le es posible  adjuntar un comentario 
 - :eye: Los comentarios deben estar relacionados a los cambios que hice, esto es una recomendación
+```
 git push origin main
+```
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
 ```
+git pull origin main
+```
+- Sirve para poder descargar los cambios de nuestro repositorio en la nube, en este caso github
